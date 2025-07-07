@@ -1,4 +1,4 @@
-# 6 Months Data Science Roadmap in 2023
+# 6 Months Data Science Roadmap in 2025
 ## Work Of Data Scientist?
 ![Capture](https://user-images.githubusercontent.com/20041231/211718743-d6604ff7-8828-422b-9b60-ec156cdaf054.JPG)
 
